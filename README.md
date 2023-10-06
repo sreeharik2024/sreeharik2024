@@ -14,7 +14,9 @@
 
  :accessibility: **Connect With Me**
 
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][sree-hari-k-7ab9581b9]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+
+[4]: linkedin.com/in/sree-hari-k-7ab9581b9/
 
 
  
