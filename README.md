@@ -14,7 +14,8 @@
 
  :accessibility: **Connect With Me**
 
- <img src='https://www.linkedin.com/in/sree-hari-k-7ab9581b9/' width='50'>
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][sree-hari-k-7ab9581b9]
+
 
  
 
